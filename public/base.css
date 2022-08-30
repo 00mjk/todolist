@@ -1,0 +1,7 @@
+:root {
+    --dark: rgb(29, 29, 29);
+    --light: rgb(198, 222, 232);
+    --prime: rgb(7, 82, 243);
+    --active: rgb(7, 243, 133);
+    --disabled: rgb(236, 76, 54);
+}
